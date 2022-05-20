@@ -30,7 +30,7 @@ export default function Modal(props) {
           <div className="modal-content">
             <h2>Good Job!</h2>
             <p>
-              Your race time was approximately {props.options} 1 and 56 minutes. The optimal time is 1 and 50 minutes. You were 4 minutes off. 
+              Your race time was approximately 1 and 56 minutes. The optimal time is 1 and 50 minutes. You were 4 minutes off. 
             </p>
 
             <button className="close-modal" onClick={toggleModal}>

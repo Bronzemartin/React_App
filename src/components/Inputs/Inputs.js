@@ -23,11 +23,6 @@ const options = [
   
 ];
 
-this.props.history.push({
-    pathname: '/components/Modal/Modal',
-    state: { options: this.options }
-  })
-
 
 class Inputs extends Component {
     
