@@ -1,0 +1,19 @@
+.NavbarItems {
+    background: #001F38;
+    height: 100px;
+    display: flex;
+   
+    font-size:1.2rem;
+
+}
+
+.oracle {
+    margin-left: 3%;
+    margin-top: 40px; 
+    position: absolute; 
+}
+
+.Red_Bull {
+    margin-left: 90%;
+    position: absolute;
+}

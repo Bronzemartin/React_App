@@ -1,0 +1,21 @@
+.btn {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    position: relative;
+    font-weight: 600;
+    font-size: 1.0rem;
+    height: 50px;
+    transition: all 200ms linear;
+    border-radius: 8px;
+    width: 180px;
+    letter-spacing: 1px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    align-self: center;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 12px 35px 0 rgba(16, 39, 112, 0.25);
+    text-transform: capitalize;
+    box-shadow: 5px 5px 5px black;
+  }
